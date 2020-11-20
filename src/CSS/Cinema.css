@@ -1,0 +1,24 @@
+.divHeader{
+border: 3px;
+border-color: red;
+border-style: dotted;
+height: 10vh;
+}
+
+.divBody{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 3px;
+    border-color: blue;
+    border-style: dotted;
+    height: 77vh;
+}
+
+.divFooter{
+    border: 3px;
+    border-color: black;
+    border-style: dotted;
+    height: 10vh;
+}
